@@ -40,9 +40,6 @@ header .nav-item{
 }
 .main-wrap{
     background-color: #ffffff;
-    border-bottom-width: 1px;
-    border-bottom-color: #eaeaea;
-    border-bottom-style: solid;
     min-height: 70px;
     transition: all 1s ease-in;
 }
