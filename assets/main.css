@@ -206,8 +206,12 @@ footer ul{
   list-style-type:none;
   padding-left: 0px !important;
     }
-    #collapseVinilit .icon-arrow svg{
+    .collapseHorizontal .icon-arrow svg{
         transform:  translate(0,-2px) rotateZ(270deg);
     
+    }
+    .inner-mid-footer{
+        padding-top: 0em;
+        padding-bottom:0em;
     }
   }
