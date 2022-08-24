@@ -100,6 +100,10 @@ header .nav-item{
         ,rgb(6,147,227) 0%,rgb(48,102,227) 100%);
 }
 
+.btn-close{
+    color: #ffffff !important;
+    background-image: url(./close.svg) !important;
+}
 .logo-white{
     width: 80px;
 }
@@ -124,7 +128,7 @@ header .nav-item{
 /*footer*/
 .bg-blue{
     background-color: #32AFFF00;
-    background-image: url(https://wp.interactioncr.com/aliaxis/wp-content/uploads/2022/02/footer-background.svg);
+    background-image: url(https://www.vinilit.cl/wp-content/uploads/2022/02/footer-background.svg);
     background-position: top center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -185,7 +189,7 @@ footer ul{
     footer .bg-blue{
         padding-left: 2em;
         padding-right: 2em;
-        background-image: url(https://wp.interactioncr.com/aliaxis/wp-content/uploads/2022/02/footer-background-mobile.svg);
+        background-image: url(https://www.vinilit.cl/wp-content/uploads/2022/02/footer-background-mobile.svg);
     }
     .copy_footer{
         font-size: 12px;
