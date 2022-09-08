@@ -1,12 +1,3 @@
-@font-face {
-    font-family: 'Gothic';
-    src: url('fonts/GOTHIC.ttf');
-}
-@font-face {
-    font-family: 'GothicBold';
-    src: url('fonts/GOTHICBOLD.ttf');
-}
-
 .nav-link{
     font-family: 'Gothic';
 }
