@@ -27,7 +27,7 @@ header("Access-Control-Allow-Headers: X-Requested-With");
 	</head>
 	<body>
 		<div class="d-none d-md-block">
-			<header class="header d-block container-fluid">
+        <header class="header d-block container-fluid position-absolute">
 				<div class="row top-bar">
 					<div class="col-lg-6 col-12">
 						<div class="div-logo">
