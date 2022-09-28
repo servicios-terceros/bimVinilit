@@ -458,8 +458,104 @@ header("Access-Control-Allow-Headers: X-Requested-With");
 				</div>
 			</nav>
 		</div>
-		<div class="container">
-		</div>
+        <div class="container-fluid p-0">
+        <div class="section bg-inside">
+            <figure>
+                <img class="img-logo-bim" src="assets/img/bim-vinilit.png" alt="">
+            </figure>
+        </div>
+        <div class="section-curva">
+            <img class="curva" src="assets/img/curva-aliaxis-latam-white-1.svg" alt="">
+        </div>
+    </div>
+    <div class="container py-5">
+        <div class="form-register">
+            <form action="" method="post">
+                <div class="row">
+                    <div class="col-12 col-md-6">
+                        <div class="mb-3">
+                            <label for="emailField" class="form-label">E-mail <span class="required">*</span></label>
+                            <input type="email" class="form-control" id="emailField" placeholder="">
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-12 col-md-6">
+                        <div class="mb-3">
+                            <label for="firstNameField" class="form-label">First name <span class="required">*</span></label>
+                            <input type="text" class="form-control" id="firstNameField" placeholder="">
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-6">
+                        <div class="mb-3">
+                            <label for="lastNameField" class="form-label">Last name <span class="required">*</span></label>
+                            <input type="text" class="form-control" id="lastNameField" placeholder="">
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-12 col-md-6">
+                        <div class="mb-3">
+                            <label for="countries" class="form-label">Country <span class="required">*</span></label>
+                            <select name="countries" id="countries" class="form-control"></select>
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-6">
+                        <div class="mb-3">
+                            <label for="companyField" class="form-label">Company <span class="required">*</span></label>
+                            <input type="text" class="form-control" id="companyField" placeholder="">
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-12 col-md-6">
+                        <div class="mb-3">
+                            <label for="passwordField" class="form-label">Password <span class="required">*</span></label>
+                            <input type="password" class="form-control" id="passwordField" placeholder="">
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-6">
+                        <div class="mb-3">
+                            <label for="repeatPasswordField" class="form-label">Repeat Password <span class="required">*</span></label>
+                            <input type="password" class="form-control" id="repeatPasswordField" placeholder="">
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-12">
+                    <div class="form-check">
+                <input  type="checkbox" class="form-check-input" id="termAndConditionField" placeholder="">
+                            <label for="termAndConditionField" class="form-label">By ticking this box, yo confirm that you<span class="required">*</span>
+                            <ul>
+                                <li>Accept the <a href="">Terms of Use</a>,</li>
+                                <li>Accept the terms of the <a href="">Privacy policy</a> and</li>
+                                <li>Consent the being contacted by representative of Aliaxis Group via email</li>
+                            </ul>
+                            </label>
+                            
+                </div>
+                    </div>
+                    <div class="col-12">
+                    <div class="form-check">
+                <input  type="checkbox" class="form-check-input" id="termAndConditionField" placeholder="">
+                            <label for="termAndConditionField" class="form-label">Tick to opt-in and receive the latest news and updates on our products ans solutions
+                            
+                            </label>
+                            
+                </div>
+                    </div>
+                
+                
+                </div>
+                <div class="row">
+                    <div class="d-grid gap-2">
+                    <button type="submit" class="btn btn-secondary" disabled>Submit</button>
+                    </div>
+                
+                </div>
+            </form>
+        </div>
+    </div>
 		<footer>
 			<div class="container-fluid bg-blue">
 				<div class="container">

@@ -1,0 +1,19 @@
+# HTTPS redirection
+<IfModule mod_rewrite.c>
+
+DirectoryIndex index.php
+
+RewriteBase /bim/
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}.html -f
+RewriteRule ^(.*)$ $1.html
+
+RewriteCond %{REQUEST_FILENAME}.php -f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^([^\.]+)$ $1.php [NC,L]
+
+#RewriteCond %{REQUEST_URI} !/blog.php
+
+
+</IfModule>

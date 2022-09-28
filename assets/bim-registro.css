@@ -1,0 +1,60 @@
+.bg-inside{
+    background-image: url(./img/bim-cover-bg.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 650px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    }
+    
+    .img-logo-bim{
+        max-height: 250px;
+    }
+    .curva{
+        width: 100%;
+        
+    }
+    .section-curva{
+        margin-top: -130px;
+    }
+    .header .nav-link, .header .nav-link:hover{
+        color: #ffffff;
+    }
+    .arrow{
+        fill: #fff;
+    }
+    .dropdown-menu .nav-link, .dropdown-menu .nav-link:hover{
+        color: #5e5e5e;
+    }
+    .required{
+        color: red;
+    }
+    .form-register{
+        max-width: 600px;
+        margin: auto;
+    }
+    .main-wrap{
+        background-color: transparent;
+    }
+    .fixed-top{
+        background-color: #fff !important;
+    }
+    @media only screen and (max-width: 768px) {
+        .section-curva{
+            margin-top: -50px;
+        }
+    }
+    @media only screen and (max-width: 600px) {
+    
+        .bg-inside{
+        height: 400px;
+           }
+           .img-logo-bim{
+            max-height: 100px;
+        }
+        .section-curva{
+            margin-top: -30px;
+        }
+    }
