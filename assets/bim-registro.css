@@ -19,10 +19,10 @@
     .section-curva{
         margin-top: -130px;
     }
-    .fixed-top .header .nav-link,.fixed-top .header .nav-link:hover{
+    .fixed-top .navbar-nav .nav-link,.fixed-top .navbar-nav .nav-link:hover{
         color: #5e5e5e !important;
     }
-    
+
     .header .nav-link, .header .nav-link:hover{
         color: #ffffff;
     }
