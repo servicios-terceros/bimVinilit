@@ -67,7 +67,7 @@ header("Access-Control-Allow-Headers: X-Requested-With");
 							<ul class="navbar-nav mb-2 mb-lg-0">
 								<li class="logo-menu">
 									<a href="https://www.vinilit.cl/">
-									<img  src="https://www.vinilit.cl/wp-content/uploads/2022/03/logo-vinilit.png" alt="">
+									<img  src="https://www.vinilit.cl/wp-content/uploads/2022/03/logo-vinilit-white.svg" alt="">
 									</a>
 								</li>
 								<li class="nav-item dropdown">
