@@ -32,7 +32,7 @@ header .nav-item{
 .main-wrap{
     background-color: #ffffff;
     min-height: 70px;
-    transition: all 1s ease-in;
+    transition: all 0.1s ease-in;
 }
 .arrow{
     height: 0.6em;
@@ -81,9 +81,9 @@ header .nav-item{
     
 }
 
-.fixed-top {
+/* .fixed-top {
     transition: all 1s ease-in;
-}
+} */
 
 .offcanvas {
     background-image: linear-gradient(
