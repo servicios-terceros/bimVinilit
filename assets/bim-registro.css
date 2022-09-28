@@ -23,7 +23,7 @@
         color: #ffffff;
     }
     .fixed-top .header .nav-link,.fixed-top .header .nav-link:hover{
-        color: #5e5e5e;
+        color: #5e5e5e !important;
     }
     .arrow{
         fill: #fff;
