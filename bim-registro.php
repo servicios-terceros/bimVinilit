@@ -32,7 +32,7 @@ header("Access-Control-Allow-Headers: X-Requested-With");
 					<div class="col-lg-6 col-12">
 						<div class="div-logo">
 							<a href="https://www.vinilit.cl/">
-							<img class="logo" src="https://www.vinilit.cl/wp-content/uploads/2022/03/logo-vinilit.png" alt="">
+							<img class="logo" src="https://www.vinilit.cl/wp-content/uploads/2022/03/logo-vinilit-white.svg" alt="">
 							</a>
 						</div>
 					</div>
