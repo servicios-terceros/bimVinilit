@@ -26,7 +26,7 @@
         fill: #fff;
     }
     .dropdown-menu .nav-link, .dropdown-menu .nav-link:hover{
-        color: #5e5e5e;
+        color: #5e5e5e !important;
     }
     .required{
         color: red;
