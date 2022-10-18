@@ -26,7 +26,7 @@ header("Access-Control-Allow-Headers: X-Requested-With");
 		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
 		<title>BIM - Vinilit</title>
 	</head>
-	<body>
+	<body class="registro">
 		<div class="d-none d-md-block">
         <header class="header d-block container-fluid position-absolute">
 				<div class="row top-bar">
