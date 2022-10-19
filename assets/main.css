@@ -148,6 +148,9 @@ header .nav-item{
     color: #ffffff;
 }
 
+.text-white{
+    color: #ffffff !important;
+}
 .br-white{
     border-top: 1px solid #ffffff;
 }
