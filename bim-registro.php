@@ -38,27 +38,7 @@ header("Access-Control-Allow-Headers: X-Requested-With");
 						</div>
 					</div>
 					<div class="col-lg-6">
-						<div class="div-items-top justify-content-end">
-							<nav class="navbar navbar-expand-lg  justify-content-end">
-								<ul class="navbar-nav mb-2 mb-lg-0">
-									<li class="nav-item">
-										<a href="https://www.vinilit.cl/contacto" class="nav-link">
-										<span class="menu-text">Contacto</span>
-										</a>
-									</li>
-									<li class="nav-item">
-										<a href="https://www.vinilit.cl/unete-a-nuestro-equipo" class="nav-link">
-										<span class="menu-text">Únete a nuestro equipo</span>
-										</a>
-									</li>
-								
-									<li>
-										<div id="bim-items">
-										</div>
-									</li>
-								</ul>
-							</nav>
-						</div>
+
 					</div>
 				</div>
 				<div class="main-wrap">
