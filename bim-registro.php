@@ -38,7 +38,8 @@ header("Access-Control-Allow-Headers: X-Requested-With");
 						</div>
 					</div>
 					<div class="col-lg-6">
-
+					<div id="bim-items">
+					</div>
 					</div>
 				</div>
 				<div class="main-wrap">
