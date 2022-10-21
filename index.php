@@ -15,8 +15,10 @@ header("Access-Control-Allow-Headers: X-Requested-With");
 		<link rel="stylesheet" href="assets/main.css">
 		<link rel="stylesheet" href="assets/bim-registro.css">
 		<link rel="stylesheet" href="assets/fonts.css">
-		<script src="assets/js/main.js"></script>
 		<script src="https://code.jquery.com/jquery-3.6.1.js" integrity="sha256-3zlB5s2uwoUzrXK3BT7AX3FyvojsraNFxCc2vC/7pNI=" crossorigin="anonymous"></script>
+
+		<script src="assets/js/main.js"></script>
+		
 		
 		<!-- CSS only -->
 		<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-gH2yIJqKdNHPEq0n4Mqa/HGKIhSkIHeL5AyhkYV8i59U5AR6csBvApHHNl/vI1Bx" crossorigin="anonymous">
