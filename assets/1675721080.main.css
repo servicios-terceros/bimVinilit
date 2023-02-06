@@ -148,6 +148,9 @@ header .nav-item{
     color: #ffffff;
 }
 
+.text-white-c{
+    color: #ffffff !important;
+}
 .text-white{
     color: #ffffff !important;
 }

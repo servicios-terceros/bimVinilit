@@ -12,7 +12,7 @@ header("Access-Control-Allow-Headers: X-Requested-With");
 		<meta charset="UTF-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<link rel="stylesheet" href="assets/main.css">
+		<link rel="stylesheet" href="assets/1675721080.main.css">
 		
 		<link rel="stylesheet" href="assets/fonts.css">
 		<script src="https://code.jquery.com/jquery-3.6.1.js" integrity="sha256-3zlB5s2uwoUzrXK3BT7AX3FyvojsraNFxCc2vC/7pNI=" crossorigin="anonymous"></script>
@@ -480,13 +480,13 @@ header("Access-Control-Allow-Headers: X-Requested-With");
 									<div class="d-block">
 										<div class="py-2">
 											<i class="fas fa-phone-alt white"></i>
-											<span class="text-white">
+											<span class="text-white-c">
 											(+56) 2 2592 4000
 											</span>
 										</div>
 										<div class="py-2">
 											<i class="far fa-envelope white"></i>
-											<span class="text-white">
+											<span class="text-white-c">
 											infovinilit@aliaxis-la.com
 											</span>
 										</div>

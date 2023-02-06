@@ -41,6 +41,9 @@
     .fixed-top{
         background-color: #32a8fd !important;
     }
+    .text-white-c{
+        color: #ffffff !important;
+    }
     @media only screen and (max-width: 768px) {
         .section-curva{
             margin-top: -50px;
