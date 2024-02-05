@@ -28,6 +28,7 @@ header("Access-Control-Allow-Headers: X-Requested-With");
 		<title>BIM - Vinilit</title>
 	</head>
 	<body class="registro">
+	<header id="bim-buttons">
 		<div class="d-none d-md-block">
         <header class="header d-block container-fluid position-absolute">
 				<div class="row top-bar">
@@ -443,6 +444,7 @@ header("Access-Control-Allow-Headers: X-Requested-With");
 				</div>
 			</nav>
 		</div>
+	</header>
         <div class="container-fluid p-0">
         <div class="section bg-inside">
             <figure>
