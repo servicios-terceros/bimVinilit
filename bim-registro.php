@@ -4,6 +4,13 @@ header('Access-Control-Allow-Origin: *');
 header('Access-Control-Allow-Methods: GET, POST');
 header("Access-Control-Allow-Headers: X-Requested-With");
 
+// Content Security Policy
+header("Content-Security-Policy: default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; connect-src 'self'; frame-ancestors 'none';");
+
+// X-Content-Type-Options
+header("X-Content-Type-Options: nosniff");
+
+
 ?>
 
 <!DOCTYPE html>
